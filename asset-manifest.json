@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/olx-frontend/static/css/main.d7cac5a2.css",
-    "main.js": "/olx-frontend/static/js/main.76ddac56.js",
+    "main.js": "/olx-frontend/static/js/main.267b049c.js",
     "index.html": "/olx-frontend/index.html",
     "main.d7cac5a2.css.map": "/olx-frontend/static/css/main.d7cac5a2.css.map",
-    "main.76ddac56.js.map": "/olx-frontend/static/js/main.76ddac56.js.map"
+    "main.267b049c.js.map": "/olx-frontend/static/js/main.267b049c.js.map"
   },
   "entrypoints": [
     "static/css/main.d7cac5a2.css",
-    "static/js/main.76ddac56.js"
+    "static/js/main.267b049c.js"
   ]
 }
